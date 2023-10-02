@@ -10,7 +10,7 @@ export default function Home() {
       <div className="text-3xl text-orange-800">hehehe</div>
       {/* <a href="/store-list">Go to StoreList</a> */}
       <Link className="text-blue-500" href="/store-list" target="_blank">
-        Go to StoreList
+        Hello!!!!!!
       </Link>
     </div>
   );
